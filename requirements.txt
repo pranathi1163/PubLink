@@ -1,0 +1,14 @@
+flask
+streamlit
+requests
+pandas
+scikit-learn
+transformers
+sentence-transformers
+rank_bm25
+gensim
+# faiss
+groq
+wordcloud
+matplotlib
+pillow
